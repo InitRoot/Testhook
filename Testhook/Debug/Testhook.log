@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+c:\users\devadmin\documents\visual studio 2015\projects\testhook\testhook\dllmain.cpp(40): warning C4101: 'hFile': unreferenced local variable
+c:\users\devadmin\documents\visual studio 2015\projects\testhook\testhook\dllmain.cpp(43): warning C4101: 'cislo': unreferenced local variable
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Testhook.vcxproj -> C:\Users\DevAdmin\documents\visual studio 2015\Projects\Testhook\Debug\Testhook.dll
+  Testhook.vcxproj -> C:\Users\DevAdmin\documents\visual studio 2015\Projects\Testhook\Debug\Testhook.pdb (Full PDB)
